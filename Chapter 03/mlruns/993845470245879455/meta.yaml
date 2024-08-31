@@ -1,0 +1,6 @@
+artifact_location: file:///c:/Users/SD/OneDrive/Documents/MLOps_book/chapter3/code/mlruns/993845470245879455
+creation_time: 1704625303646
+experiment_id: '993845470245879455'
+last_update_time: 1704625303646
+lifecycle_stage: active
+name: LogisticRegression_Tuning

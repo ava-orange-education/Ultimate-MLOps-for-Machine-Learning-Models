@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/OneDrive/Documents/book_data/5_chapter3/code/mlruns/993845470245879455/015e41712b354dda94549d7e67e62947/artifacts
+end_time: 1704625373110
+entry_point_name: ''
+experiment_id: '993845470245879455'
+lifecycle_stage: active
+run_id: 015e41712b354dda94549d7e67e62947
+run_name: experiment_5
+run_uuid: 015e41712b354dda94549d7e67e62947
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704625360938
+status: 3
+tags: []
+user_id: HP

@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1704625901072
+current_stage: None
+description: ''
+last_updated_timestamp: 1704625901072
+name: LogReg
+run_id: bde9bb32b9ce47ed9412d61a41cec576
+run_link: ''
+source: file:///c:/Users/HP/OneDrive/Documents/book_data/5_chapter3/code/mlruns/993845470245879455/bde9bb32b9ce47ed9412d61a41cec576/artifacts/LogisticRegression_Model_2
+status: READY
+status_message: null
+storage_location: file:///c:/Users/HP/OneDrive/Documents/book_data/5_chapter3/code/mlruns/993845470245879455/bde9bb32b9ce47ed9412d61a41cec576/artifacts/LogisticRegression_Model_2
+user_id: null
+version: 1
